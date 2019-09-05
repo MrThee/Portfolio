@@ -1,6 +1,6 @@
 # Portfolio
 My first portfolio
 
-How to: https://blog.webjeda.com/create-host-website-github-pages/
+How to: https://guides.github.com/features/pages/
 
 
